@@ -2,7 +2,7 @@
 
 This project processes KITTI LiDAR scans and visualizes annotated objects with oriented 3D bounding boxes.
 
-## Process Done
+## Implemented Processing Stages
 
 - LiDAR point-cloud scanning and inspection
 - LiDAR-to-camera coordinate transformation
