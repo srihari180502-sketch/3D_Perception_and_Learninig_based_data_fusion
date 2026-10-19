@@ -1,0 +1,326 @@
+{
+ "n_files": 80,
+ "total_bytes": 55049990,
+ "files": {
+  "training/calib/000001.txt": {
+   "size": 1613,
+   "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  "training/calib/000004.txt": {
+   "size": 1613,
+   "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  "training/calib/000007.txt": {
+   "size": 1613,
+   "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  "training/calib/000008.txt": {
+   "size": 1613,
+   "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  "training/calib/000009.txt": {
+   "size": 1613,
+   "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  "training/calib/000010.txt": {
+   "size": 1613,
+   "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  "training/calib/000011.txt": {
+   "size": 1613,
+   "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  "training/calib/000012.txt": {
+   "size": 1613,
+   "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  "training/calib/000015.txt": {
+   "size": 1614,
+   "sha256": "d567fe1ef88e37cbaa49772533db1c72ecc4094f243c952a436e77950ba74cab"
+  },
+  "training/calib/000016.txt": {
+   "size": 1613,
+   "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  "training/calib/000019.txt": {
+   "size": 1613,
+   "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  "training/calib/000021.txt": {
+   "size": 1613,
+   "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  "training/calib/000023.txt": {
+   "size": 1613,
+   "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  "training/calib/000025.txt": {
+   "size": 1613,
+   "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  "training/calib/000031.txt": {
+   "size": 1613,
+   "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  "training/calib/000032.txt": {
+   "size": 1613,
+   "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  "training/calib/000043.txt": {
+   "size": 1613,
+   "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  "training/calib/000048.txt": {
+   "size": 1614,
+   "sha256": "d567fe1ef88e37cbaa49772533db1c72ecc4094f243c952a436e77950ba74cab"
+  },
+  "training/calib/000049.txt": {
+   "size": 1613,
+   "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  "training/calib/000061.txt": {
+   "size": 1613,
+   "sha256": "5813c05a89e33e67244891c62e153e0a572692d42365b8665e38cc242c7d4918"
+  },
+  "training/image_2/000001.png": {
+   "size": 735973,
+   "sha256": "40acaf855260376103a5e0d97e9dce15d51811c0f419ff308e948fefdd880bf6"
+  },
+  "training/image_2/000004.png": {
+   "size": 846037,
+   "sha256": "f42249a1beb2beac156ffce53fadba1df300b1144484880f20f7a75393474e65"
+  },
+  "training/image_2/000007.png": {
+   "size": 814308,
+   "sha256": "2675d702a65b2cda45e8dc19df8478ed26b24186d236246c97ebc5bac3d5df0d"
+  },
+  "training/image_2/000008.png": {
+   "size": 886551,
+   "sha256": "5b988d2a04d51850610b38ce50a66fd4027f3f5e645e5f2198d0522f4cf9a640"
+  },
+  "training/image_2/000009.png": {
+   "size": 751971,
+   "sha256": "ef18e8f93de15fec1f30055046d273823b8cbfc71a538f72dabce0e5776bbe2e"
+  },
+  "training/image_2/000010.png": {
+   "size": 825833,
+   "sha256": "123b58ce5608eae25b96fb159956b98a092f99f8e4da566c29cbf279e75d420b"
+  },
+  "training/image_2/000011.png": {
+   "size": 878179,
+   "sha256": "3a2cb160a89c005dcd2ade961a1f5121ca669ce899a813c843c2d52ddf07b2db"
+  },
+  "training/image_2/000012.png": {
+   "size": 845173,
+   "sha256": "519f490c0fa58f327dcecf0e0f22decdfa064d9c1611b51e7d4fa6979161a942"
+  },
+  "training/image_2/000015.png": {
+   "size": 848948,
+   "sha256": "8a962985fa3235854134daed53f0529dde59794640f4ccfe8ef53f4257b7b04b"
+  },
+  "training/image_2/000016.png": {
+   "size": 786280,
+   "sha256": "a55b69f446a307007c2bb7adc7aa579146d0c5bb3a202177b20090fc770fad3a"
+  },
+  "training/image_2/000019.png": {
+   "size": 847663,
+   "sha256": "0b50ea16d24e51b7a1ab9d2ff3a439e3bde4f0d0c33cb416865c5ee943f4d3b4"
+  },
+  "training/image_2/000021.png": {
+   "size": 842636,
+   "sha256": "b26d89b487b9708f88fd6a3762ac863b35703cf9337d336b0a6614e940dfb91e"
+  },
+  "training/image_2/000023.png": {
+   "size": 734355,
+   "sha256": "c7cd94f8632af6681c6067bdbffc81a2e7fbd246a43cec583629833f6140e433"
+  },
+  "training/image_2/000025.png": {
+   "size": 880470,
+   "sha256": "a9b483aa030b2ed7279b020d3b3d4eb5bc20d1b67c9425299dda1d8052d3db67"
+  },
+  "training/image_2/000031.png": {
+   "size": 872765,
+   "sha256": "464b31b5ec3700ec64f8e291f242425eb8695cfb60512158015beb34ac74fc63"
+  },
+  "training/image_2/000032.png": {
+   "size": 823459,
+   "sha256": "d18835c332dc87eac96b6735d2d0506ef6a99cbb1aeb79a190afe68fb20f3e38"
+  },
+  "training/image_2/000043.png": {
+   "size": 881041,
+   "sha256": "9f1c29c2a5413db1c0f5845741cf7032c1955ee055c0b3b09cfdd1843b9ae97c"
+  },
+  "training/image_2/000048.png": {
+   "size": 912548,
+   "sha256": "eaa56bfd18f86c68e5ad5cb22305bd45b75cd6f64ff2a13db016526810987578"
+  },
+  "training/image_2/000049.png": {
+   "size": 931653,
+   "sha256": "b1a77764b89eb720a974b9c1079f68c37bcabfa7f32646709df715e5fb79a2fc"
+  },
+  "training/image_2/000061.png": {
+   "size": 874417,
+   "sha256": "35ef69284776e84bd7c6ad5ce7a5344a92bae830b52db3acee9022df11b537b6"
+  },
+  "training/label_2/000001.txt": {
+   "size": 565,
+   "sha256": "36eef20c544fb5cd648ea3144683a6f0e7a6869c94c1347cb7e6997e0253aefd"
+  },
+  "training/label_2/000004.txt": {
+   "size": 556,
+   "sha256": "6fefb725f4d61a748ab224ae425e8af5ba08b13d5e09544d4794724ad3c67bcb"
+  },
+  "training/label_2/000007.txt": {
+   "size": 487,
+   "sha256": "fedd52f3441728af4d1255d236aef649bcb3dbfd3859cc145fcd1fd22299d1d9"
+  },
+  "training/label_2/000008.txt": {
+   "size": 798,
+   "sha256": "a41a3f6d8025eac856fd9e04a2bb303bf971f2a38fe4993ebb9892e1daf6ad5a"
+  },
+  "training/label_2/000009.txt": {
+   "size": 399,
+   "sha256": "b42d42e30394ca789b607b757fc0e28ec676035d75c00425ee4ed2c53430a8b6"
+  },
+  "training/label_2/000010.txt": {
+   "size": 1050,
+   "sha256": "347e445a2d4ac82a78d947dc61ea9a8664abb28757f165384e9f65bca193f722"
+  },
+  "training/label_2/000011.txt": {
+   "size": 740,
+   "sha256": "a5a32a687fa6ffb9610c2007863f042b15e53dacc86765a4ca2d484ac9abfaed"
+  },
+  "training/label_2/000012.txt": {
+   "size": 398,
+   "sha256": "fb762a053a99946bb093c15b76552065fe8c5af379a6c64d8710aaab25de04db"
+  },
+  "training/label_2/000015.txt": {
+   "size": 824,
+   "sha256": "fa7f0b8145e1226fad4a3b09f3dbd7075cf129c5b1804f8db1188b717b1caec8"
+  },
+  "training/label_2/000016.txt": {
+   "size": 1753,
+   "sha256": "223280f4af065519671e0c527d088a409e661222b6c5b74fa222181ad3883aef"
+  },
+  "training/label_2/000019.txt": {
+   "size": 480,
+   "sha256": "13ed5097023151d5837c7425ca1322cf741f4b1b9e13b1d17c860e827d152f61"
+  },
+  "training/label_2/000021.txt": {
+   "size": 815,
+   "sha256": "43e1945fee2b98efd5e8e255a74f16911780934118a761adabb0b6efbcbb28ab"
+  },
+  "training/label_2/000023.txt": {
+   "size": 487,
+   "sha256": "76ccc5db2a660ff393be11bd56f17586dc31d97f4272d1959c4c7bdd4fc83fdc"
+  },
+  "training/label_2/000025.txt": {
+   "size": 726,
+   "sha256": "6f4b32340c834718b2a6b5baeab067e61e35c4ac94809170245060062b2e5fe0"
+  },
+  "training/label_2/000031.txt": {
+   "size": 730,
+   "sha256": "fcf46b019d8be09aff2f6f952864719bfca4877ae1fef350ab15607c5afc98f6"
+  },
+  "training/label_2/000032.txt": {
+   "size": 976,
+   "sha256": "5d1421f2b9a3e292eb376888fa181473357166740fc6a4fea28f69f74474cb7d"
+  },
+  "training/label_2/000043.txt": {
+   "size": 744,
+   "sha256": "53ce4edf054e9b691c44f832ef66d9b9b07251b7069abd81e1924239511ed060"
+  },
+  "training/label_2/000048.txt": {
+   "size": 821,
+   "sha256": "6f6c88020455a2b46d6e9d2892cb8012205723961f90fd5eccf4f530b2b0fb06"
+  },
+  "training/label_2/000049.txt": {
+   "size": 1568,
+   "sha256": "9b3e5df668cf83887cfb52952144fe7543874c15ae515ff167ce5e0414e3c0e4"
+  },
+  "training/label_2/000061.txt": {
+   "size": 647,
+   "sha256": "c90ef4ad9ccab57981d9cafd5e1b11cf2816fedcdcd10eab55d061fa824caae4"
+  },
+  "training/velodyne/000001.bin": {
+   "size": 1924288,
+   "sha256": "59a02fdaaab3b7e903713cb618e8f53efcaf71c144436ddfcdf4f28bdbd73d20"
+  },
+  "training/velodyne/000004.bin": {
+   "size": 1855616,
+   "sha256": "abf2115e0a0b34f75db89d7014c58edaf2873be6cd3acc3b1582ea269b881938"
+  },
+  "training/velodyne/000007.bin": {
+   "size": 1964768,
+   "sha256": "91dbcd9225fa834d52f442871346e8b08938eb758106e8c1f18f8904351b92c4"
+  },
+  "training/velodyne/000008.bin": {
+   "size": 1960880,
+   "sha256": "9db1fe26d240917dfd64e6125f77a78f7cff6aa4bd5b8eb87f73fbd7a789dd98"
+  },
+  "training/velodyne/000009.bin": {
+   "size": 1982848,
+   "sha256": "4268927ed1871b2c5b7f90c13709a1d672912658c7f7d05f60ba788f780e370a"
+  },
+  "training/velodyne/000010.bin": {
+   "size": 1854000,
+   "sha256": "72573b49dc3ea8f3a75b43781f1c11f75c27e6e96c60ff096b7e5cce654ada78"
+  },
+  "training/velodyne/000011.bin": {
+   "size": 1728064,
+   "sha256": "e5b3f5b81dbf189743885fefc6cada966946282c42914a63fb04704983732f01"
+  },
+  "training/velodyne/000012.bin": {
+   "size": 1920112,
+   "sha256": "b498bbc27c7094d34c57ef8a626101f8639280d8d48fd14bb51969a6e6c27361"
+  },
+  "training/velodyne/000015.bin": {
+   "size": 1961328,
+   "sha256": "a8c0cbb7cdea8d03602ef4afb64db16aedc8a6d479a09c38061011b320ceb8bb"
+  },
+  "training/velodyne/000016.bin": {
+   "size": 1809120,
+   "sha256": "e1547ea661f05ad17d3722b52f49fec0d5472e6a20ba5c8be3d8e8a7016af00a"
+  },
+  "training/velodyne/000019.bin": {
+   "size": 1851152,
+   "sha256": "b7e8722e97e6b9452c47a0d8bcd3705c0de0cc515093130cf9beeea36ff7d070"
+  },
+  "training/velodyne/000021.bin": {
+   "size": 2004160,
+   "sha256": "e9765463b344d7143d64d0afbc6e80c41811a29a0b4ac404e6337ade85d4f135"
+  },
+  "training/velodyne/000023.bin": {
+   "size": 1926592,
+   "sha256": "90157533af66d7957e231653e46f23b462c314e645026d4ae851c11c085da2cc"
+  },
+  "training/velodyne/000025.bin": {
+   "size": 1852480,
+   "sha256": "d40c6723a5cd939ca7a7e7e46c3ab32a7cfc324aeabdda7f32e8a006f0be7081"
+  },
+  "training/velodyne/000031.bin": {
+   "size": 1940656,
+   "sha256": "162e84d9a0faf7d69c669fbcbe81fa9d76e24a5c52045ce009aa490cdb0025d0"
+  },
+  "training/velodyne/000032.bin": {
+   "size": 1898576,
+   "sha256": "060154c31b13b8e4f47764a9af475c0ba1aec59d72619e8d5090207a2efeb3c0"
+  },
+  "training/velodyne/000043.bin": {
+   "size": 1961456,
+   "sha256": "e34b3e70870d00ced4ab032e318f448abdfa0adbf43df104b1b219546de83fce"
+  },
+  "training/velodyne/000048.bin": {
+   "size": 1962800,
+   "sha256": "a3ff2e0f4231151ff885c8babfcb3c03c8357993469f5d99303ad5504dafd491"
+  },
+  "training/velodyne/000049.bin": {
+   "size": 1819056,
+   "sha256": "44e72c56d23a2765f8b336ef607694ecbbc9028f0546c3dc7ee7653714f346c9"
+  },
+  "training/velodyne/000061.bin": {
+   "size": 2003952,
+   "sha256": "10a669b52ac24e048c5fd71a8f55e8abee7797bf53777ea2455f9869f6d8cafe"
+  }
+ }
+}
